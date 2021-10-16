@@ -1,0 +1,30 @@
+main menu music: https://freesound.org/people/LittleRobotSoundFactory/sounds/274169/
+intermission music: https://freesound.org/people/szegvari/sounds/560746/
+mission music: https://freesound.org/people/FoolBoyMedia/sounds/270366/
+victory sound: https://freesound.org/people/joshuaempyre/sounds/404024/
+
+gun sound: https://freesound.org/people/CJDeets/sounds/476740/
+cannon sound: https://freesound.org/people/Kneeling/sounds/448002/
+power up sound: https://freesound.org/people/Breviceps/sounds/557593/
+power down sound: https://freesound.org/people/qubodup/sounds/222372/
+stomp sound: https://freesound.org/people/studiomandragore/sounds/401628/
+crash sound: https://freesound.org/people/qubodup/sounds/182429/
+impact sound: https://freesound.org/people/Oddworld/sounds/75328/
+hydraulic sound: https://freesound.org/people/eardeer/sounds/385083/
+
+mech sprite: https://opengameart.org/content/unit-666-mech
+dead tree sprites: https://opengameart.org/content/knarled-trees
+green tree sprites: https://opengameart.org/content/tree-collection-v26-bleeds-game-art
+cannon effect: https://opengameart.org/content/blue-fire-effect
+small explosion sprites: https://gaph.artstation.com/
+large explosion sprite: https://www.freepngimg.com/png/31556-atomic-explosion-transparent-background
+menu background and sky: https://free-images.com/lg/5434/planet_earth_moon_science.jpg
+welder: https://opengameart.org/content/16-bit-alien
+welding sparks: https://opengameart.org/content/spark-particles-set-of-8
+skull and bones: https://openclipart.org/image/400px/1010
+sky: https://svs.gsfc.nasa.gov/3895
+moon: https://www.publicdomainpictures.net/en/view-image.php?image=44955&picture=full-moon-at-midnight-close-up
+blue sky: https://www.pexels.com/photo/blue-and-white-sky-with-stars-4737484/
+
+orbitron font: https://www.1001freefonts.com/orbitron.font
+exoplanetaria font: https://www.fontspace.com/exoplanetaria-font-f41401

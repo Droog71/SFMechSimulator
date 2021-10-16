@@ -1,0 +1,16 @@
+throttle_up:W
+throttle_down:S
+turn_left:A
+turn_right:D
+look_left:Left
+look_right:Right
+look_up:Up
+look_down:Down
+fire_guns:Space
+fire_cannon:LControl
+lock_target:T
+select_component:C
+map:M
+show_tutorial:F1
+show_keys:F2
+show_fps:F3
