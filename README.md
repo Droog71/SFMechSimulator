@@ -51,3 +51,7 @@ The window cannot be smaller than 1280x720 <br />
 
 Click the 'NEW GAME' button at the main menu <br />
 Press F1 to start the tutorial <br />
+
+Key bindings can be reassigned by editing the bindings.list file in the game directory <br />
+All possible key aliases can be found at the following link <br />
+https://github.com/Droog71/SFMechSimulator/blob/main/src/key_bindings.cpp
