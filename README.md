@@ -1,7 +1,7 @@
 SFMechSimulator
 ===============
 
-_A pseudo 3D Mech Simulator created with C++ and SFML_ <br />
+_A pseudo 3D mech simulator created with C++ and SFML_ <br />
 
 Pilot a giant robot and battle other giant robots in a pseudo 3D environment. <br />
 Repair and upgrade your mech between missions. <br />
